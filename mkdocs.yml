@@ -8,7 +8,10 @@ nav:
   - 问题: issues.md
   - 指南:
     - 快速开始: guide/start.md
-    - 获取模组信息: guide/get-metadata.md
+    - Lazuli Core:
+      - 简述: guide/core/interview.md  
+      - 初始化模组: guide/core/init.md
+      - 获取模组信息: guide/core/get-metadata.md      
 markdown_extensions:
   - attr_list
   - pymdownx.superfences

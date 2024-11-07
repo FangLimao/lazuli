@@ -51,16 +51,10 @@ function initializeMod(
 ): void
 ~~~
 
-在LDK里不调用`initializeMod`函数，大部分功能仍可以正常运行，此时LDK会使用默认的配置信息运行：
+例如：
 
 ~~~ts
-/**
- * Metadata of the mod.
- */
-let modData: ModBaseData = {
-  id: "ldk",
-  name: "Lazuli Development Kit",
-};
+initializeMod("example-mod", "示例模组");
 ~~~
 
 ## 打包
