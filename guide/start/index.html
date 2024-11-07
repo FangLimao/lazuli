@@ -12,7 +12,7 @@
         <link rel="prev" href="../../issues/">
       
       
-        <link rel="next" href="../get-metadata/">
+        <link rel="next" href="../core/interview/">
       
       
       <link rel="icon" href="../../assets/bedrock.png">
@@ -464,8 +464,95 @@
   
   
   
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Lazuli Core
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Lazuli Core
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
     <li class="md-nav__item">
-      <a href="../get-metadata/" class="md-nav__link">
+      <a href="../core/interview/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    简述
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../core/init/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    初始化模组
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../core/get-metadata/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -474,6 +561,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -541,14 +636,8 @@ registry=https://registry.yarnpkg.com
 <span class="w">  </span><span class="nx">event</span><span class="o">?:</span><span class="w"> </span><span class="p">(</span><span class="nx">arg</span><span class="o">:</span><span class="w"> </span><span class="kt">WorldInitializeAfterEvent</span><span class="p">)</span><span class="w"> </span><span class="p">=&gt;</span><span class="w"> </span><span class="ow">void</span>
 <span class="p">)</span><span class="o">:</span><span class="w"> </span><span class="ow">void</span>
 </code></pre></div>
-<p>在LDK里不调用<code>initializeMod</code>函数，大部分功能仍可以正常运行，此时LDK会使用默认的配置信息运行：</p>
-<div class="highlight"><pre><span></span><code><span class="cm">/**</span>
-<span class="cm"> * Metadata of the mod.</span>
-<span class="cm"> */</span>
-<span class="kd">let</span><span class="w"> </span><span class="nx">modData</span><span class="o">:</span><span class="w"> </span><span class="kt">ModBaseData</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="nx">id</span><span class="o">:</span><span class="w"> </span><span class="s2">&quot;ldk&quot;</span><span class="p">,</span>
-<span class="w">  </span><span class="nx">name</span><span class="o">:</span><span class="w"> </span><span class="s2">&quot;Lazuli Development Kit&quot;</span><span class="p">,</span>
-<span class="p">};</span>
+<p>例如：</p>
+<div class="highlight"><pre><span></span><code><span class="nx">initializeMod</span><span class="p">(</span><span class="s2">&quot;example-mod&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;示例模组&quot;</span><span class="p">);</span>
 </code></pre></div>
 <h2 id="_4">打包</h2>
 <p>你需要一个支持将依赖递归打包进输出文件的脚本打包器，例如Esbuild进行打包。</p>
@@ -604,13 +693,13 @@ registry=https://registry.yarnpkg.com
         
         
           
-          <a href="../get-metadata/" class="md-footer__link md-footer__link--next" aria-label="Next: 获取模组信息">
+          <a href="../core/interview/" class="md-footer__link md-footer__link--next" aria-label="Next: 简述">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                获取模组信息
+                简述
               </div>
             </div>
             <div class="md-footer__button md-icon">
