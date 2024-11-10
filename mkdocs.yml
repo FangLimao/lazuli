@@ -1,30 +1,4 @@
 site_name: Lazuli Devkit
-theme:
-  name: material
-  logo: assets/bedrock.png
-  favicon: assets/bedrock.png
-  features:
-    - navigation.footer 
-        - header.autohide  
-        - navigation.tabs 
-        - navigation.tabs.sticky 
-        - navigation.top
-        - toc.integrate
-        - navigation.expand
-        - navigation.sections                
-        - content.code.copy
-  palette:
-    # Palette toggle for light mode
-      - scheme: default
-        toggle:
-          icon: material/brightness-7
-          name: 切换到深色模式
-
-      # Palette toggle for dark mode
-      - scheme: slate
-        toggle:
-          icon: material/brightness-4
-          name: 切换到浅色模式
 plugins:
   - search
 nav:
@@ -36,7 +10,7 @@ nav:
       - 简述: guide/core/interview.md  
       - 初始化模组: guide/core/init.md
       - 获取模组信息: guide/core/get-metadata.md
-  - 文献:
+  - 文档:
       - API: reference/api/globals.md
 markdown_extensions:
   - attr_list
@@ -46,3 +20,23 @@ markdown_extensions:
   - footnotes
   - pymdownx.tabbed:
       alternate_style: true
+theme:
+  name: material
+  logo: assets/bedrock.png
+  favicon: assets/bedrock.png
+  features:
+    - navigation.footer
+    - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - toc.integrate
+    - navigation.expand
+    - navigation.sections
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/git-alt
+    edit: material/pencil
+    view: material/eye
+  palette:
+    primary: white
