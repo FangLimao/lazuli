@@ -11,7 +11,9 @@ nav:
       - 初始化模组: guide/core/init.md
       - 获取模组信息: guide/core/get-metadata.md
   - 文档:
-      - API: reference/api/globals.md
+      - Lazuli Core: reference/core/globals.md
+      - Lazuli Api: reference/api/globals.md
+      - Lazuli GameData: reference/game-data/globals.md
 markdown_extensions:
   - attr_list
   - pymdownx.superfences
