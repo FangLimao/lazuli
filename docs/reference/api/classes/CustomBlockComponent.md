@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / CustomBlockComponent
+[@lazuli/api v2.2.0](../globals.md) / CustomBlockComponent
 
 # Class: CustomBlockComponent
 
@@ -33,7 +33,7 @@ Define a custom block component.
 
 The id that represents this custom component. Must have a
 namespace. This id can be specified in an item's JSON
-configuration under the 'minecraft:custom_components' item
+configuration under the `minecraft:custom_components` item
 component.
 
 • **components**: `BlockCustomComponent`
@@ -51,7 +51,7 @@ This function can throw errors.
 
 #### Defined in
 
-component.ts:66
+component.ts:86
 
 ## Properties
 
@@ -64,7 +64,7 @@ the event occurs on an item using this custom component id.
 
 #### Defined in
 
-component.ts:68
+component.ts:88
 
 ***
 
@@ -74,9 +74,9 @@ component.ts:68
 
 The id that represents this custom component. Must have a
 namespace. This id can be specified in an item's JSON
-configuration under the 'minecraft:custom_components' item
+configuration under the `minecraft:custom_components` item
 component.
 
 #### Defined in
 
-component.ts:67
+component.ts:87

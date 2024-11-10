@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / PercentGiftItem
+[@lazuli/api v2.2.0](../globals.md) / PercentGiftItem
 
 # Class: PercentGiftItem
 
@@ -46,7 +46,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:78
+item/gift.ts:84
 
 ## Properties
 
@@ -58,7 +58,7 @@ The probability of give reward when use the gift, should be a percentage (0~1).
 
 #### Defined in
 
-item/gift.ts:80
+item/gift.ts:86
 
 ***
 
@@ -74,7 +74,7 @@ Rewards of the gift.
 
 #### Defined in
 
-item/gift.ts:81
+item/gift.ts:87
 
 ***
 
@@ -90,7 +90,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:82
+item/gift.ts:88
 
 ***
 
@@ -106,7 +106,7 @@ Identifier of the type of items for the stack. If a namespace is not specified, 
 
 #### Defined in
 
-item/gift.ts:79
+item/gift.ts:85
 
 ## Methods
 
@@ -130,7 +130,7 @@ Give reward to a player.
 
 #### Defined in
 
-item/gift.ts:90
+item/gift.ts:96
 
 ***
 
@@ -154,4 +154,4 @@ Use `Register.giftRegistry()` to registry the gift.
 
 #### Defined in
 
-item/gift.ts:55
+item/gift.ts:61

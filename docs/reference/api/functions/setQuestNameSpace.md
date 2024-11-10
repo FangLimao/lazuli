@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / setQuestNameSpace
+[@lazuli/api v2.2.0](../globals.md) / setQuestNameSpace
 
 # Function: setQuestNameSpace()
 
@@ -22,4 +22,4 @@ the namespace
 
 ## Defined in
 
-quest.ts:349
+quest.ts:354

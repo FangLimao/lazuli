@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ArticleCollection
+[@lazuli/api v2.2.0](../globals.md) / ArticleCollection
 
 # Class: ArticleCollection
 
@@ -43,7 +43,7 @@ Articles in the collection.
 
 #### Defined in
 
-article.ts:121
+article.ts:126
 
 ## Properties
 
@@ -55,7 +55,7 @@ Articles in the collection.
 
 #### Defined in
 
-article.ts:126
+article.ts:131
 
 ***
 
@@ -67,7 +67,7 @@ Body of the collection.
 
 #### Defined in
 
-article.ts:124
+article.ts:129
 
 ***
 
@@ -79,7 +79,7 @@ Control when collection is displayed.
 
 #### Defined in
 
-article.ts:125
+article.ts:130
 
 ***
 
@@ -91,7 +91,7 @@ Collection`s id.
 
 #### Defined in
 
-article.ts:122
+article.ts:127
 
 ***
 
@@ -103,7 +103,7 @@ Title of the collection.
 
 #### Defined in
 
-article.ts:123
+article.ts:128
 
 ## Methods
 
@@ -123,4 +123,4 @@ Display the reading to a player.
 
 #### Defined in
 
-article.ts:132
+article.ts:137

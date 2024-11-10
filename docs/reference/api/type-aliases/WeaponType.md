@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponType
+[@lazuli/api v2.2.0](../globals.md) / WeaponType
 
 # Type Alias: WeaponType
 
@@ -12,4 +12,4 @@ Type of the weapon.
 
 ## Defined in
 
-item/weapon.ts:231
+item/weapon.ts:237

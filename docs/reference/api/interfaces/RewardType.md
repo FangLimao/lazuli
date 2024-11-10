@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / RewardType
+[@lazuli/api v2.2.0](../globals.md) / RewardType
 
 # Interface: RewardType
 
@@ -18,7 +18,7 @@ The specific point will be given to the player.
 
 #### Defined in
 
-item/gift.ts:155
+item/gift.ts:161
 
 ***
 
@@ -30,7 +30,7 @@ Player will get these items when the quest is finished.
 
 #### Defined in
 
-item/gift.ts:147
+item/gift.ts:153
 
 ***
 
@@ -42,4 +42,4 @@ The specific level will be given to the player.
 
 #### Defined in
 
-item/gift.ts:151
+item/gift.ts:157

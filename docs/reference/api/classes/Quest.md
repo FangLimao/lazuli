@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / Quest
+[@lazuli/api v2.2.0](../globals.md) / Quest
 
 # Class: Quest
 
@@ -38,7 +38,7 @@ Options of the quest.
 
 #### Defined in
 
-quest.ts:29
+quest.ts:34
 
 ## Properties
 
@@ -50,7 +50,7 @@ Body of the quest.
 
 #### Defined in
 
-quest.ts:32
+quest.ts:37
 
 ***
 
@@ -62,7 +62,7 @@ Title of the quest.
 
 #### Defined in
 
-quest.ts:31
+quest.ts:36
 
 ***
 
@@ -72,7 +72,7 @@ quest.ts:31
 
 #### Defined in
 
-quest.ts:21
+quest.ts:26
 
 ***
 
@@ -84,7 +84,7 @@ The unique id of the quest.
 
 #### Defined in
 
-quest.ts:30
+quest.ts:35
 
 ***
 
@@ -96,7 +96,7 @@ Options of the quest.
 
 #### Defined in
 
-quest.ts:33
+quest.ts:38
 
 ## Accessors
 
@@ -124,7 +124,7 @@ quest.ts:33
 
 #### Defined in
 
-quest.ts:105
+quest.ts:110
 
 ***
 
@@ -152,7 +152,7 @@ quest.ts:105
 
 #### Defined in
 
-quest.ts:108
+quest.ts:113
 
 ## Methods
 
@@ -172,7 +172,7 @@ Let a player complete the quest and give award.
 
 #### Defined in
 
-quest.ts:79
+quest.ts:84
 
 ***
 
@@ -196,7 +196,7 @@ The screen player should return to after closing the form.
 
 #### Defined in
 
-quest.ts:47
+quest.ts:52
 
 ***
 
@@ -216,7 +216,7 @@ Check if a player has completed this quest.
 
 #### Defined in
 
-quest.ts:94
+quest.ts:99
 
 ***
 
@@ -236,4 +236,4 @@ Use `Register.questRegistry()` to registry the prop
 
 #### Defined in
 
-quest.ts:39
+quest.ts:44

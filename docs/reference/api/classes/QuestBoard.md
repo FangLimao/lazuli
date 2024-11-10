@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestBoard
+[@lazuli/api v2.2.0](../globals.md) / QuestBoard
 
 # Class: QuestBoard
 
@@ -40,7 +40,7 @@ Control when collection is displayed.
 
 #### Defined in
 
-quest.ts:319
+quest.ts:324
 
 ## Properties
 
@@ -52,7 +52,7 @@ Body of the board.
 
 #### Defined in
 
-quest.ts:322
+quest.ts:327
 
 ***
 
@@ -64,7 +64,7 @@ Books of the board.
 
 #### Defined in
 
-quest.ts:323
+quest.ts:328
 
 ***
 
@@ -76,7 +76,7 @@ Control when collection is displayed.
 
 #### Defined in
 
-quest.ts:324
+quest.ts:329
 
 ***
 
@@ -88,7 +88,7 @@ The unique id of the board.
 
 #### Defined in
 
-quest.ts:320
+quest.ts:325
 
 ***
 
@@ -100,7 +100,7 @@ Title of the board.
 
 #### Defined in
 
-quest.ts:321
+quest.ts:326
 
 ## Methods
 
@@ -120,4 +120,4 @@ Display the board form to a player.
 
 #### Defined in
 
-quest.ts:331
+quest.ts:336

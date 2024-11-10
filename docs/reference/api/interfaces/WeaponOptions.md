@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponOptions
+[@lazuli/api v2.2.0](../globals.md) / WeaponOptions
 
 # Interface: WeaponOptions
 
@@ -26,7 +26,7 @@ Trigger events when the tool has been destroyed.
 
 #### Defined in
 
-item/weapon.ts:245
+item/weapon.ts:251
 
 ***
 
@@ -38,7 +38,7 @@ Weapon`s skill.
 
 #### Defined in
 
-item/weapon.ts:241
+item/weapon.ts:247
 
 ***
 
@@ -50,4 +50,4 @@ Type of the tool.
 
 #### Defined in
 
-item/weapon.ts:237
+item/weapon.ts:243

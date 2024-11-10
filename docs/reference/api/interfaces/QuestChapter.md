@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestChapter
+[@lazuli/api v2.2.0](../globals.md) / QuestChapter
 
 # Interface: QuestChapter
 
@@ -18,7 +18,7 @@ Body of the chapter.
 
 #### Defined in
 
-quest.ts:568
+quest.ts:575
 
 ***
 
@@ -37,7 +37,7 @@ texture/gui/example_pic
 
 #### Defined in
 
-quest.ts:578
+quest.ts:585
 
 ***
 
@@ -49,7 +49,7 @@ Quests of the chapter.
 
 #### Defined in
 
-quest.ts:572
+quest.ts:579
 
 ***
 
@@ -61,4 +61,4 @@ Title of the chapter.
 
 #### Defined in
 
-quest.ts:564
+quest.ts:571

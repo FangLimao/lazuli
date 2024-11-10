@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / GiftItem
+[@lazuli/api v2.2.0](../globals.md) / GiftItem
 
 # Class: GiftItem
 
@@ -38,7 +38,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:46
+item/gift.ts:52
 
 ## Properties
 
@@ -50,7 +50,7 @@ Rewards of the gift.
 
 #### Defined in
 
-item/gift.ts:48
+item/gift.ts:54
 
 ***
 
@@ -62,7 +62,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:49
+item/gift.ts:55
 
 ***
 
@@ -74,7 +74,7 @@ Identifier of the type of items for the stack. If a namespace is not specified, 
 
 #### Defined in
 
-item/gift.ts:47
+item/gift.ts:53
 
 ## Methods
 
@@ -94,7 +94,7 @@ Give reward to a player.
 
 #### Defined in
 
-item/gift.ts:62
+item/gift.ts:68
 
 ***
 
@@ -114,4 +114,4 @@ Use `Register.giftRegistry()` to registry the gift.
 
 #### Defined in
 
-item/gift.ts:55
+item/gift.ts:61

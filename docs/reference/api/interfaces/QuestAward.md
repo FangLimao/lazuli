@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestAward
+[@lazuli/api v2.2.0](../globals.md) / QuestAward
 
 # Interface: QuestAward
 
@@ -18,7 +18,7 @@ The specific point will be given to the player.
 
 #### Defined in
 
-quest.ts:622
+quest.ts:629
 
 ***
 
@@ -30,7 +30,7 @@ Player will get these items when the quest is finished.
 
 #### Defined in
 
-quest.ts:614
+quest.ts:621
 
 ***
 
@@ -42,4 +42,4 @@ The specific level will be given to the player.
 
 #### Defined in
 
-quest.ts:618
+quest.ts:625

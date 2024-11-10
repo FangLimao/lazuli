@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ChapterData
+[@lazuli/api v2.2.0](../globals.md) / ChapterData
 
 # Interface: ChapterData
 
@@ -18,7 +18,7 @@ Body of the Chapter.
 
 #### Defined in
 
-article.ts:178
+article.ts:183
 
 ***
 
@@ -30,7 +30,7 @@ Icon path of the chapter.
 
 #### Defined in
 
-article.ts:182
+article.ts:187
 
 ***
 
@@ -42,4 +42,4 @@ Title of the chapter.
 
 #### Defined in
 
-article.ts:174
+article.ts:179

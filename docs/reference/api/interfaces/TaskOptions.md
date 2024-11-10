@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / TaskOptions
+[@lazuli/api v2.2.0](../globals.md) / TaskOptions
 
 # Interface: TaskOptions
 

@@ -1,14 +1,15 @@
-[**@lazuli/api v2.1.0**](README.md) • **Docs**
+[**@lazuli/api v2.2.0**](README.md) • **Docs**
 
 ***
 
-# @lazuli/api v2.1.0
+# @lazuli/api v2.2.0
 
-## Base Class
+## Component Builder
 
-- [WeaponAtkSkill](classes/WeaponAtkSkill.md)
-- [WeaponSkill](classes/WeaponSkill.md)
-- [WeaponUseSkill](classes/WeaponUseSkill.md)
+- [CustomArticleComponentBuilder](classes/CustomArticleComponentBuilder.md)
+- [CustomFoodComponentBuilder](classes/CustomFoodComponentBuilder.md)
+- [CustomToolComponentBuilder](classes/CustomToolComponentBuilder.md)
+- [CustomWeaponComponentBuilder](classes/CustomWeaponComponentBuilder.md)
 
 ## Need Registry
 
@@ -36,11 +37,8 @@
 
 - [BlockTest](classes/BlockTest.md)
 - [BossSkill](classes/BossSkill.md)
-- [CustomFoodComponentBuilder](classes/CustomFoodComponentBuilder.md)
 - [FormManager](classes/FormManager.md)
 - [FunctionManager](classes/FunctionManager.md)
-- [GiftUtils](classes/GiftUtils.md)
-- [ItemApiUtils](classes/ItemApiUtils.md)
 - [QuestBoard](classes/QuestBoard.md)
 - [QuestBookCategory](classes/QuestBookCategory.md)
 - [RegistryUtils](classes/RegistryUtils.md)
@@ -48,10 +46,10 @@
 - [TaskCategory](classes/TaskCategory.md)
 - [TaskList](classes/TaskList.md)
 - [TaskUtils](classes/TaskUtils.md)
-- [ToolUtils](classes/ToolUtils.md)
+- [WeaponAtkSkill](classes/WeaponAtkSkill.md)
 - [WeaponItem](classes/WeaponItem.md)
-- [WeaponSkillUtils](classes/WeaponSkillUtils.md)
-- [WeaponUtils](classes/WeaponUtils.md)
+- [WeaponSkill](classes/WeaponSkill.md)
+- [WeaponUseSkill](classes/WeaponUseSkill.md)
 - [BossMusicOptions](interfaces/BossMusicOptions.md)
 - [ChapterData](interfaces/ChapterData.md)
 - [checkResult](interfaces/checkResult.md)
@@ -82,3 +80,11 @@
 ## Registry
 
 - [Register](classes/Register.md)
+
+## Utils
+
+- [GiftUtils](classes/GiftUtils.md)
+- [ItemApiUtils](classes/ItemApiUtils.md)
+- [ToolUtils](classes/ToolUtils.md)
+- [WeaponSkillUtils](classes/WeaponSkillUtils.md)
+- [WeaponUtils](classes/WeaponUtils.md)

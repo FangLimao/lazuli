@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestOptions
+[@lazuli/api v2.2.0](../globals.md) / QuestOptions
 
 # Interface: QuestOptions
 
@@ -18,7 +18,7 @@ It will be called when the Quest is completed by the player.
 
 #### Defined in
 
-quest.ts:636
+quest.ts:643
 
 ***
 
@@ -30,7 +30,7 @@ Condition to complete the quest.
 
 #### Defined in
 
-quest.ts:632
+quest.ts:639
 
 ***
 
@@ -49,7 +49,7 @@ texture/gui/example_pic
 
 #### Defined in
 
-quest.ts:646
+quest.ts:653
 
 ***
 
@@ -61,4 +61,4 @@ Tips of the quest.
 
 #### Defined in
 
-quest.ts:640
+quest.ts:647

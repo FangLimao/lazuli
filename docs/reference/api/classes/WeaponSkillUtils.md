@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponSkillUtils
+[@lazuli/api v2.2.0](../globals.md) / WeaponSkillUtils
 
 # Class: WeaponSkillUtils
 
@@ -36,4 +36,4 @@ Useful functions for [WeaponSkill](WeaponSkill.md) Api.
 
 #### Defined in
 
-item/weaponSkill.ts:66
+item/weaponSkill.ts:72

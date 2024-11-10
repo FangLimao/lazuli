@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ChapterArticle
+[@lazuli/api v2.2.0](../globals.md) / ChapterArticle
 
 # Class: ChapterArticle
 
@@ -54,7 +54,7 @@ If true, articles will be unlocked in the [ArticleCollection](ArticleCollection.
 
 #### Defined in
 
-article.ts:72
+article.ts:77
 
 ## Properties
 
@@ -70,7 +70,7 @@ Body of the article, support RawMessage.
 
 #### Defined in
 
-article.ts:75
+article.ts:80
 
 ***
 
@@ -82,7 +82,7 @@ Chapters of the article.
 
 #### Defined in
 
-article.ts:76
+article.ts:81
 
 ***
 
@@ -98,7 +98,7 @@ Icon path of the article.
 
 #### Defined in
 
-article.ts:77
+article.ts:82
 
 ***
 
@@ -114,7 +114,7 @@ Article`s id.
 
 #### Defined in
 
-article.ts:73
+article.ts:78
 
 ***
 
@@ -130,7 +130,7 @@ If true, articles will be unlocked in the [ArticleCollection](ArticleCollection.
 
 #### Defined in
 
-article.ts:78
+article.ts:83
 
 ***
 
@@ -146,7 +146,7 @@ Title of the article.
 
 #### Defined in
 
-article.ts:74
+article.ts:79
 
 ## Methods
 
@@ -170,7 +170,7 @@ Check the article whether it is unlocked or not to article collection.
 
 #### Defined in
 
-article.ts:50
+article.ts:55
 
 ***
 
@@ -194,7 +194,7 @@ Display the reading to a player.
 
 #### Defined in
 
-article.ts:85
+article.ts:90
 
 ***
 
@@ -218,4 +218,4 @@ Unlock the article to article collection.
 
 #### Defined in
 
-article.ts:43
+article.ts:48

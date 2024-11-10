@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestBookOptions
+[@lazuli/api v2.2.0](../globals.md) / QuestBookOptions
 
 # Interface: QuestBookOptions
 
@@ -23,7 +23,7 @@ texture/gui/example_pic
 
 #### Defined in
 
-quest.ts:659
+quest.ts:666
 
 ***
 
@@ -35,4 +35,4 @@ Quests of the Questbook.
 
 #### Defined in
 
-quest.ts:653
+quest.ts:660

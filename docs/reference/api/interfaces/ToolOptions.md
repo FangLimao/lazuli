@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ToolOptions
+[@lazuli/api v2.2.0](../globals.md) / ToolOptions
 
 # Interface: ToolOptions
 
@@ -26,7 +26,7 @@ Trigger events when the tool has been destroyed.
 
 #### Defined in
 
-item/tool.ts:301
+item/tool.ts:308
 
 ***
 
@@ -38,4 +38,4 @@ Type of the tool.
 
 #### Defined in
 
-item/tool.ts:297
+item/tool.ts:304

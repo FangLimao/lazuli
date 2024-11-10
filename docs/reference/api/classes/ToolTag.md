@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ToolTag
+[@lazuli/api v2.2.0](../globals.md) / ToolTag
 
 # Class: ToolTag
 
@@ -30,7 +30,7 @@ Additional options of the tool.
 
 #### Defined in
 
-item/tool.ts:55
+item/tool.ts:62
 
 ## Properties
 
@@ -42,7 +42,7 @@ Additional options of the tool.
 
 #### Defined in
 
-item/tool.ts:57
+item/tool.ts:64
 
 ***
 
@@ -54,7 +54,7 @@ The tool tag.
 
 #### Defined in
 
-item/tool.ts:56
+item/tool.ts:63
 
 ## Methods
 
@@ -70,7 +70,7 @@ Consume durability when the tool use on logs.
 
 #### Defined in
 
-item/tool.ts:138
+item/tool.ts:145
 
 ***
 
@@ -86,7 +86,7 @@ Automatically consume durability for the tools.
 
 #### Defined in
 
-item/tool.ts:62
+item/tool.ts:69
 
 ***
 
@@ -100,7 +100,7 @@ item/tool.ts:62
 
 #### Defined in
 
-item/tool.ts:115
+item/tool.ts:122
 
 ***
 
@@ -116,4 +116,4 @@ Consume durability when the tool use on dirt.
 
 #### Defined in
 
-item/tool.ts:92
+item/tool.ts:99

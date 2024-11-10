@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / GiftUtils
+[@lazuli/api v2.2.0](../globals.md) / GiftUtils
 
 # Class: GiftUtils
 
@@ -42,4 +42,4 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:19
+item/gift.ts:25

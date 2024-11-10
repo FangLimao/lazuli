@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponSkill
+[@lazuli/api v2.2.0](../globals.md) / WeaponSkill
 
 # Class: WeaponSkill
 
@@ -44,7 +44,7 @@ The amount of durability consumed when unleashing this skill.
 
 #### Defined in
 
-item/weaponSkill.ts:119
+item/weaponSkill.ts:124
 
 ## Properties
 
@@ -56,7 +56,7 @@ Tips on action bar when this skill is triggered.
 
 #### Defined in
 
-item/weaponSkill.ts:122
+item/weaponSkill.ts:127
 
 ***
 
@@ -68,7 +68,7 @@ The amount of durability consumed when unleashing this skill.
 
 #### Defined in
 
-item/weaponSkill.ts:123
+item/weaponSkill.ts:128
 
 ***
 
@@ -80,7 +80,7 @@ This event fires when the skill is triggered.
 
 #### Defined in
 
-item/weaponSkill.ts:121
+item/weaponSkill.ts:126
 
 ***
 
@@ -92,7 +92,7 @@ The probability to triggered when multiple skills are added to a weapon.
 
 #### Defined in
 
-item/weaponSkill.ts:120
+item/weaponSkill.ts:125
 
 ## Methods
 
@@ -109,7 +109,7 @@ Get the skill`s type.
 
 #### Defined in
 
-item/weaponSkill.ts:143
+item/weaponSkill.ts:148
 
 ***
 
@@ -131,4 +131,4 @@ Unleash the weapon skill.
 
 #### Defined in
 
-item/weaponSkill.ts:130
+item/weaponSkill.ts:135

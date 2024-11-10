@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ToolItem
+[@lazuli/api v2.2.0](../globals.md) / ToolItem
 
 # Class: ToolItem
 
@@ -30,7 +30,7 @@ Additional options of the tool.
 
 #### Defined in
 
-item/tool.ts:169
+item/tool.ts:176
 
 ## Properties
 
@@ -42,7 +42,7 @@ Item of the weapon.
 
 #### Defined in
 
-item/tool.ts:170
+item/tool.ts:177
 
 ***
 
@@ -54,7 +54,7 @@ Additional options of the tool.
 
 #### Defined in
 
-item/tool.ts:171
+item/tool.ts:178
 
 ## Methods
 
@@ -70,7 +70,7 @@ Consume durability when the tool use on logs.
 
 #### Defined in
 
-item/tool.ts:263
+item/tool.ts:270
 
 ***
 
@@ -86,7 +86,7 @@ Automatically consume durability for the tools.
 
 #### Defined in
 
-item/tool.ts:184
+item/tool.ts:191
 
 ***
 
@@ -100,7 +100,7 @@ item/tool.ts:184
 
 #### Defined in
 
-item/tool.ts:211
+item/tool.ts:218
 
 ***
 
@@ -116,4 +116,4 @@ Consume durability when the tool use on dirt.
 
 #### Defined in
 
-item/tool.ts:237
+item/tool.ts:244

@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponSkillType
+[@lazuli/api v2.2.0](../globals.md) / WeaponSkillType
 
 # Type Alias: WeaponSkillType
 
@@ -12,4 +12,4 @@ Type to the weapon skill.
 
 ## Defined in
 
-item/weaponSkill.ts:9
+item/weaponSkill.ts:14

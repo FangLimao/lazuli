@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ToolUtils
+[@lazuli/api v2.2.0](../globals.md) / ToolUtils
 
 # Class: ToolUtils
 
@@ -30,7 +30,7 @@ Some useful functions for Tool Api.
 
 • **item**: `ItemStack`
 
-• **tool**: [`ToolItem`](ToolItem.md) \| [`ToolTag`](ToolTag.md)
+• **tool**: [`ToolItem`](ToolItem.md) \| [`ToolTag`](ToolTag.md) \| [`CustomToolComponentBuilder`](CustomToolComponentBuilder.md)
 
 #### Returns
 
@@ -38,4 +38,4 @@ Some useful functions for Tool Api.
 
 #### Defined in
 
-item/tool.ts:18
+item/tool.ts:25

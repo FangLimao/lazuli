@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestBookCategory
+[@lazuli/api v2.2.0](../globals.md) / QuestBookCategory
 
 # Class: QuestBookCategory
 
@@ -39,7 +39,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:287
+quest.ts:292
 
 ## Properties
 
@@ -51,7 +51,7 @@ Body of the category.
 
 #### Defined in
 
-quest.ts:289
+quest.ts:294
 
 ***
 
@@ -63,7 +63,7 @@ The quest books that included in category.
 
 #### Defined in
 
-quest.ts:290
+quest.ts:295
 
 ***
 
@@ -76,7 +76,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:291
+quest.ts:296
 
 ***
 
@@ -88,7 +88,7 @@ Title of the category.
 
 #### Defined in
 
-quest.ts:288
+quest.ts:293
 
 ## Methods
 
@@ -108,4 +108,4 @@ Display the category form to a player.
 
 #### Defined in
 
-quest.ts:297
+quest.ts:302

@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponUtils
+[@lazuli/api v2.2.0](../globals.md) / WeaponUtils
 
 # Class: WeaponUtils
 
@@ -30,7 +30,7 @@ Some useful functions for Weapon Api.
 
 • **item**: `ItemStack`
 
-• **weapon**: [`WeaponItem`](WeaponItem.md) \| [`WeaponTag`](WeaponTag.md)
+• **weapon**: [`WeaponItem`](WeaponItem.md) \| [`WeaponTag`](WeaponTag.md) \| [`CustomWeaponComponentBuilder`](CustomWeaponComponentBuilder.md)
 
 #### Returns
 
@@ -38,7 +38,7 @@ Some useful functions for Weapon Api.
 
 #### Defined in
 
-item/weapon.ts:53
+item/weapon.ts:59
 
 ***
 
@@ -60,7 +60,7 @@ item/weapon.ts:53
 
 #### Defined in
 
-item/weapon.ts:32
+item/weapon.ts:38
 
 ***
 
@@ -80,4 +80,4 @@ item/weapon.ts:32
 
 #### Defined in
 
-item/weapon.ts:15
+item/weapon.ts:21

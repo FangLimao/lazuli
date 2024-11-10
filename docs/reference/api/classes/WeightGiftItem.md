@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeightGiftItem
+[@lazuli/api v2.2.0](../globals.md) / WeightGiftItem
 
 # Class: WeightGiftItem
 
@@ -34,7 +34,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:110
+item/gift.ts:116
 
 ## Properties
 
@@ -46,7 +46,7 @@ Data of the gift, including its reward and weight.
 
 #### Defined in
 
-item/gift.ts:112
+item/gift.ts:118
 
 ***
 
@@ -58,7 +58,7 @@ Plays a sound when player receive the reward.
 
 #### Defined in
 
-item/gift.ts:113
+item/gift.ts:119
 
 ***
 
@@ -70,7 +70,7 @@ Identifier of the type of items for the stack. If a namespace is not specified, 
 
 #### Defined in
 
-item/gift.ts:111
+item/gift.ts:117
 
 ## Methods
 
@@ -90,7 +90,7 @@ Give reward to a player.
 
 #### Defined in
 
-item/gift.ts:126
+item/gift.ts:132
 
 ***
 
@@ -110,4 +110,4 @@ Use `Register.giftRegistry()` to registry the gift.
 
 #### Defined in
 
-item/gift.ts:119
+item/gift.ts:125

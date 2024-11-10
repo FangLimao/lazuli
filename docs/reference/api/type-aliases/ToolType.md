@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ToolType
+[@lazuli/api v2.2.0](../globals.md) / ToolType
 
 # Type Alias: ToolType
 
@@ -12,4 +12,4 @@ Type of the tool.
 
 ## Defined in
 
-item/tool.ts:291
+item/tool.ts:298

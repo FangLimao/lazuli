@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / RewardWeightData
+[@lazuli/api v2.2.0](../globals.md) / RewardWeightData
 
 # Interface: RewardWeightData
 
@@ -18,7 +18,7 @@ Reward of the gift.
 
 #### Defined in
 
-item/gift.ts:165
+item/gift.ts:171
 
 ***
 
@@ -30,4 +30,4 @@ Weight of giving this reward.
 
 #### Defined in
 
-item/gift.ts:169
+item/gift.ts:175

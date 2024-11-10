@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / NumberLimitedPropOptions
+[@lazuli/api v2.2.0](../globals.md) / NumberLimitedPropOptions
 
 # Interface: NumberLimitedPropOptions
 

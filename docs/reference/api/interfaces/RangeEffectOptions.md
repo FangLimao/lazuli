@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / RangeEffectOptions
+[@lazuli/api v2.2.0](../globals.md) / RangeEffectOptions
 
 # Interface: RangeEffectOptions
 
@@ -14,7 +14,7 @@
 
 #### Defined in
 
-item/weaponSkill.ts:12
+item/weaponSkill.ts:17
 
 ***
 
@@ -24,4 +24,4 @@ item/weaponSkill.ts:12
 
 #### Defined in
 
-item/weaponSkill.ts:13
+item/weaponSkill.ts:18

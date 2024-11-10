@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponSkillAtkEvent
+[@lazuli/api v2.2.0](../globals.md) / WeaponSkillAtkEvent
 
 # Interface: WeaponSkillAtkEvent
 
@@ -40,7 +40,7 @@ The target, might be undefined.
 
 #### Defined in
 
-item/weaponSkill.ts:45
+item/weaponSkill.ts:50
 
 ***
 
@@ -56,7 +56,7 @@ Apply damage to attacker.
 
 #### Defined in
 
-item/weaponSkill.ts:23
+item/weaponSkill.ts:28
 
 ***
 
@@ -68,7 +68,7 @@ Apply damage to target.
 
 #### Defined in
 
-item/weaponSkill.ts:55
+item/weaponSkill.ts:60
 
 ***
 
@@ -84,7 +84,7 @@ Apply effect(s) to attacker.
 
 #### Defined in
 
-item/weaponSkill.ts:27
+item/weaponSkill.ts:32
 
 ***
 
@@ -96,7 +96,7 @@ Apply effect(s) to target.
 
 #### Defined in
 
-item/weaponSkill.ts:59
+item/weaponSkill.ts:64
 
 ***
 
@@ -112,7 +112,7 @@ Add levels to attacker.
 
 #### Defined in
 
-item/weaponSkill.ts:35
+item/weaponSkill.ts:40
 
 ***
 
@@ -128,7 +128,7 @@ Apply effect to some entity.
 
 #### Defined in
 
-item/weaponSkill.ts:31
+item/weaponSkill.ts:36
 
 ***
 
@@ -144,4 +144,4 @@ Add experiences to attacker.
 
 #### Defined in
 
-item/weaponSkill.ts:39
+item/weaponSkill.ts:44

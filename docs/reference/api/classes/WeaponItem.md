@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / WeaponItem
+[@lazuli/api v2.2.0](../globals.md) / WeaponItem
 
 # Class: WeaponItem
 
@@ -30,7 +30,7 @@ Additional options of the weapon.
 
 #### Defined in
 
-item/weapon.ts:162
+item/weapon.ts:168
 
 ## Properties
 
@@ -42,7 +42,7 @@ Item of the weapon.
 
 #### Defined in
 
-item/weapon.ts:163
+item/weapon.ts:169
 
 ***
 
@@ -54,7 +54,7 @@ Additional options of the weapon.
 
 #### Defined in
 
-item/weapon.ts:164
+item/weapon.ts:170
 
 ## Methods
 
@@ -70,7 +70,7 @@ Get this weapon's attack skill.
 
 #### Defined in
 
-item/weapon.ts:175
+item/weapon.ts:181
 
 ***
 
@@ -86,7 +86,7 @@ Get this weapon`s all skills.
 
 #### Defined in
 
-item/weapon.ts:169
+item/weapon.ts:175
 
 ***
 
@@ -102,7 +102,7 @@ Get this weapon's use skill.
 
 #### Defined in
 
-item/weapon.ts:187
+item/weapon.ts:193
 
 ***
 
@@ -118,4 +118,4 @@ Automatically consume durability for the tools.
 
 #### Defined in
 
-item/weapon.ts:199
+item/weapon.ts:205

@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestBook
+[@lazuli/api v2.2.0](../globals.md) / QuestBook
 
 # Class: QuestBook
 
@@ -43,7 +43,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:127
+quest.ts:132
 
 ## Properties
 
@@ -55,7 +55,7 @@ Body of the quest book.
 
 #### Defined in
 
-quest.ts:130
+quest.ts:135
 
 ***
 
@@ -68,7 +68,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:132
+quest.ts:137
 
 ***
 
@@ -80,7 +80,7 @@ The unique id of the quest book.
 
 #### Defined in
 
-quest.ts:128
+quest.ts:133
 
 ***
 
@@ -92,7 +92,7 @@ Options of the quest book.
 
 #### Defined in
 
-quest.ts:131
+quest.ts:136
 
 ***
 
@@ -104,7 +104,7 @@ Title of the quest book.
 
 #### Defined in
 
-quest.ts:129
+quest.ts:134
 
 ## Methods
 
@@ -128,7 +128,7 @@ Optional information will be sent to world.
 
 #### Defined in
 
-quest.ts:168
+quest.ts:173
 
 ***
 
@@ -152,7 +152,7 @@ The screen player should return to after closing the form.
 
 #### Defined in
 
-quest.ts:146
+quest.ts:151
 
 ***
 
@@ -172,7 +172,7 @@ Get the quest by id.
 
 #### Defined in
 
-quest.ts:178
+quest.ts:183
 
 ***
 
@@ -188,7 +188,7 @@ Get all quests.
 
 #### Defined in
 
-quest.ts:184
+quest.ts:189
 
 ***
 
@@ -208,4 +208,4 @@ Use `Register.questRegistry()` to registry the prop
 
 #### Defined in
 
-quest.ts:138
+quest.ts:143

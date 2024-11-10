@@ -1,10 +1,12 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ItemApiUtils
+[@lazuli/api v2.2.0](../globals.md) / ItemApiUtils
 
 # Class: ItemApiUtils
+
+Some useful functions for Item Api.
 
 ## Constructors
 
@@ -46,4 +48,4 @@ The entity that used the item.
 
 #### Defined in
 
-item.ts:12
+item.ts:21

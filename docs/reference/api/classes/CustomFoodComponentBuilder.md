@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / CustomFoodComponentBuilder
+[@lazuli/api v2.2.0](../globals.md) / CustomFoodComponentBuilder
 
 # Class: CustomFoodComponentBuilder
 
@@ -29,7 +29,7 @@ new CustomFoodComponentBuilder("ldk:example_component", [{
 
 The id that represents this custom component. Must have a
 namespace. This id can be specified in an item's JSON
-configuration under the 'minecraft:custom_components' item
+configuration under the `minecraft:custom_components` item
 component.
 
 • **statusEffects?**: `EffectData`[]
@@ -50,7 +50,7 @@ This function can throw errors.
 
 #### Defined in
 
-component.ts:93
+component.ts:114
 
 ## Properties
 
@@ -70,7 +70,7 @@ This event fires when eat the food.
 
 #### Defined in
 
-component.ts:96
+component.ts:117
 
 ***
 
@@ -82,7 +82,7 @@ Adds a status effect when eat the food.
 
 #### Defined in
 
-component.ts:95
+component.ts:116
 
 ***
 
@@ -92,12 +92,12 @@ component.ts:95
 
 The id that represents this custom component. Must have a
 namespace. This id can be specified in an item's JSON
-configuration under the 'minecraft:custom_components' item
+configuration under the `minecraft:custom_components` item
 component.
 
 #### Defined in
 
-component.ts:94
+component.ts:115
 
 ## Methods
 
@@ -111,4 +111,4 @@ component.ts:94
 
 #### Defined in
 
-component.ts:98
+component.ts:119

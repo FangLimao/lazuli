@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / ChapterQuestBook
+[@lazuli/api v2.2.0](../globals.md) / ChapterQuestBook
 
 # Class: ChapterQuestBook
 
@@ -43,7 +43,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:203
+quest.ts:208
 
 ## Properties
 
@@ -55,7 +55,7 @@ Body of the quest book.
 
 #### Defined in
 
-quest.ts:206
+quest.ts:211
 
 ***
 
@@ -67,7 +67,7 @@ Chapters of the quest book.
 
 #### Defined in
 
-quest.ts:207
+quest.ts:212
 
 ***
 
@@ -80,7 +80,7 @@ It should be the path from the root of the resource pack, like `texture/gui/exam
 
 #### Defined in
 
-quest.ts:208
+quest.ts:213
 
 ***
 
@@ -92,7 +92,7 @@ The unique id of the quest book.
 
 #### Defined in
 
-quest.ts:204
+quest.ts:209
 
 ***
 
@@ -104,7 +104,7 @@ Title of the quest book.
 
 #### Defined in
 
-quest.ts:205
+quest.ts:210
 
 ## Methods
 
@@ -124,7 +124,7 @@ Display the book to the player.
 
 #### Defined in
 
-quest.ts:221
+quest.ts:226
 
 ***
 
@@ -144,4 +144,4 @@ Use `Register.questRegistry()` to registry the prop
 
 #### Defined in
 
-quest.ts:214
+quest.ts:219

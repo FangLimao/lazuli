@@ -1,4 +1,4 @@
-**@lazuli/api v2.1.0** • [**Docs**](globals.md)
+**@lazuli/api v2.2.0** • [**Docs**](globals.md)
 
 ***
 

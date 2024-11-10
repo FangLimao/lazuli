@@ -1,8 +1,8 @@
-[**@lazuli/api v2.1.0**](../README.md) • **Docs**
+[**@lazuli/api v2.2.0**](../README.md) • **Docs**
 
 ***
 
-[@lazuli/api v2.1.0](../globals.md) / QuestCondition
+[@lazuli/api v2.2.0](../globals.md) / QuestCondition
 
 # Interface: QuestCondition
 
@@ -18,7 +18,7 @@ Match only typeId and min amount.
 
 #### Defined in
 
-quest.ts:588
+quest.ts:595
 
 ***
 
@@ -30,7 +30,7 @@ The specific entity will be required to unlock the quest.
 
 #### Defined in
 
-quest.ts:600
+quest.ts:607
 
 ***
 
@@ -42,7 +42,7 @@ The specific level will be required to unlock the quest.
 
 #### Defined in
 
-quest.ts:592
+quest.ts:599
 
 ***
 
@@ -54,7 +54,7 @@ The specific point will be required to unlock the quest.
 
 #### Defined in
 
-quest.ts:596
+quest.ts:603
 
 ***
 
@@ -66,4 +66,4 @@ The specific quests will be required to unlock the quest.
 
 #### Defined in
 
-quest.ts:604
+quest.ts:611
