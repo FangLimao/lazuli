@@ -13,6 +13,7 @@ nav:
   - 文档:
       - Lazuli Core: reference/core/globals.md
       - Lazuli Api: reference/api/globals.md
+      - Lazuli Utils: reference/utils/globals.md
       - Lazuli GameData: reference/game-data/globals.md
 markdown_extensions:
   - attr_list
