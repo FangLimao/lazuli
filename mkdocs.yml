@@ -6,10 +6,16 @@ nav:
   - 问题: issues.md
   - 指南:
     - 快速开始: guide/start.md
+    - 语言文件: guide/lang.md
     - Lazuli Core:
       - 简述: guide/core/interview.md  
       - 初始化模组: guide/core/init.md
       - 获取模组信息: guide/core/get-metadata.md
+    - Lazuli API:
+      - ®️注册: guide/api/register.md
+      - 📃文章: guide/api/article.md
+      - 📕任务: guide/api/quest.md
+      - 👣组件: guide/api/component.md
   - 文档:
       - Lazuli Core: reference/core/globals.md
       - Lazuli Api: reference/api/globals.md
